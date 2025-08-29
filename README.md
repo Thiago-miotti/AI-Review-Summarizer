@@ -2,7 +2,7 @@
 
 An intelligent AI-powered application that automatically summarizes product reviews using advanced natural language processing. Built with modern web technologies and designed to provide quick insights from customer feedback.
 
-![Review Summarizer Demo](packages/client/src/assets/Demonstration.gif)
+<img src="packages/client/src/assets/Demonstration.gif" alt="Review Summarizer Demo" width="800" height="600" />
 
 ## ✨ Features
 
@@ -44,6 +44,5 @@ ReviewSummarizer/
 - **Express.js** - Web framework
 - **Prisma** - Database ORM
 - **MySQL** - Database
-- **Google Gemini AI** - AI summarization
-- **OpenAI** - Alternative AI provider
+- **OpenAI** - AI summarization
 - **Bun** - Fast JavaScript runtime
